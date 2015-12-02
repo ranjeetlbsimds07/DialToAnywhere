@@ -57,4 +57,4 @@
         android:layout_gravity="start"
         app:headerLayout="@layout/drawer_header"
         app:menu="@menu/drawer"/>
-</android.support.v4.widget.DrawerLayout><!-- From: file:/E:/DialToAnywhere/app/src/main/res/layout/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/D:/gitcode/DialToAnywhere/app/src/main/res/layout/activity_main.xml -->
